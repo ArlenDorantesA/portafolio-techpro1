@@ -1,12 +1,12 @@
-# Portafolio Responsivo con Bootstrap 5
+# Portafolio Responsivo con Bootstrap 5 
 
 *******
 
-El presente proyecto es creado para el bootcamp de **Tecnolochicas PRO Summer Camp**.
+El presente proyecto es creado para el bootcamp de **Tecnolochicas PRO Summer Camp** 💜.
 
-Es una página web resposiva *(adaptable a diversos tamaños de pantalla)*.
+Es una página web resposiva *(adaptable a diversos tamaños de pantalla)* 📱💻🖥️.
 
-El propósito del el sitio web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia.
+El propósito del el sitio web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia 👩🏻‍💻.
 
 En este caso se muestra una página que se fue desarrollando durante el bootcamp de Tecnolochicas Pro Summer camp.
 
@@ -24,10 +24,10 @@ Esta página fue creada con:
 
 Además se incluyen *Google Fonts*.
 
-## Español
+## Español 
  El texto de la página web está escrito en español, sin embargo la clases relacionadas con Bootstrap se incluyen en inglés.
 
 ## Contacto
 
 Desarrollado:  en Tecnolochicas PRO Summer Camp.
-Ariadna Avalos
+Derechos de autor para: Ariadna Dorantes
