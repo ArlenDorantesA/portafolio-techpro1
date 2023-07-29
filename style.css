@@ -1,0 +1,59 @@
+*{
+    font-family: 'Kansei Tokumin', serif;
+}
+
+
+p{ 
+    color: #0e6402;
+}
+
+.nav nav-pills {
+    background-color: #56a54c;
+}
+
+#img-perfil{
+    height: 180px; width: px;
+}
+
+#img-imagen2{
+    height: 100px; width: px;
+}
+
+.bg-primary{
+    background-color: #3de31c!important;
+}
+
+.nav-link{
+    color: #653208!important;
+}
+
+.text-bg-primary {
+    background-color: #3be958!important;
+}
+.carousel-item {
+    height: 400px;
+}
+
+.button {
+    color: #3de31c;
+}
+
+.mejores-fotos-feid {
+     color: #56a54c;
+
+}
+
+.btn  {
+    color: #61ec4f;
+    background-color: #2a4327;
+}
+
+.texto-bold {
+    font-weight: 900;
+}
+
+.text-white {
+    --bs-text-opacity: 1;
+
+    color: rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important;
+
