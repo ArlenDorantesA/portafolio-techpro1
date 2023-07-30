@@ -1,5 +1,9 @@
 # Portafolio Responsivo con Bootstrap 5 
 
+### ÌNDICE
+
+
+
 *******
 
 El presente proyecto es creado para el bootcamp de **Tecnolochicas PRO Summer Camp** 💜.
@@ -10,10 +14,12 @@ El propósito del el sitio web es mostrar el portafolio de proyectos de un(a) de
 
 En este caso se muestra una página que se fue desarrollando durante el bootcamp de Tecnolochicas Pro Summer camp.
 
+********
+Este es un proyecto creado con mucho esfuerzo que espero pueda ayudarte si es que te gustaría empezar a programar 👩🏻‍💻.
 
-También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
+********
 
-## Tecnologías
+### Tecnologías
 
 Esta página fue creada con:
 
@@ -24,10 +30,18 @@ Esta página fue creada con:
 
 Además se incluyen *Google Fonts*.
 
-## Español 
+### Demo
+
+<img src="imagenes/foto-paginaweb" alt="pagina web">
+Puedes entrar al demo en este vìnculo: https://mellifluous-madeleine-175509.netlify.app/
+
+Puedes basarte en este proyecto para crear nuevas cosas e ir mejorando tu propia página web! 🖥️💡🤍
+
+### Español 
+
  El texto de la página web está escrito en español, sin embargo la clases relacionadas con Bootstrap se incluyen en inglés.
 
-## Contacto
+### Contacto
 
 Desarrollado:  en Tecnolochicas PRO Summer Camp.
 Derechos de autor para: Ariadna Dorantes
