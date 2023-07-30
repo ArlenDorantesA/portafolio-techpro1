@@ -2,6 +2,10 @@
 
 ### ÌNDICE
 
+* [Tecnologías](https://github.com/ArlenDorantesA/portafolio-techpro1/edit/main/README.md#tecnolog%C3%ADas)
+* [Demo](https://github.com/ArlenDorantesA/portafolio-techpro1/edit/main/README.md#demo)
+* [Español](https://github.com/ArlenDorantesA/portafolio-techpro1/edit/main/README.md#espa%C3%B1ol)
+* [Contacto](https://github.com/ArlenDorantesA/portafolio-techpro1/edit/main/README.md#contacto)
 
 
 *******
@@ -32,7 +36,7 @@ Además se incluyen *Google Fonts*.
 
 ### Demo
 
-<img src="imagenes/foto-paginaweb.png" alt="pagina web">
+<img src="Imagenes/foto-paginaweb.png" alt="pagina web" width="600" >
 
 Puedes entrar al demo en este vìnculo: https://mellifluous-madeleine-175509.netlify.app/
 
@@ -45,4 +49,5 @@ Puedes basarte en este proyecto para crear nuevas cosas e ir mejorando tu propia
 ### Contacto
 
 Desarrollado:  en Tecnolochicas PRO Summer Camp.
+
 Derechos de autor para: Ariadna Dorantes
