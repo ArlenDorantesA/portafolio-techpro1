@@ -2,10 +2,10 @@
 
 ### ÌNDICE
 
-* [Tecnologías](https://github.com/ArlenDorantesA/portafolio-techpro1/edit/main/README.md#tecnolog%C3%ADas)
-* [Demo](https://github.com/ArlenDorantesA/portafolio-techpro1/edit/main/README.md#demo)
-* [Español](https://github.com/ArlenDorantesA/portafolio-techpro1/edit/main/README.md#espa%C3%B1ol)
-* [Contacto](https://github.com/ArlenDorantesA/portafolio-techpro1/edit/main/README.md#contacto)
+* [Tecnologías](https://github.com/ArlenDorantesA/portafolio-techpro1#tecnolog%C3%ADas)
+* [Demo](https://github.com/ArlenDorantesA/portafolio-techpro1#demo)
+* [Español](https://github.com/ArlenDorantesA/portafolio-techpro1#espa%C3%B1ol)
+* [Contacto](https://github.com/ArlenDorantesA/portafolio-techpro1#contacto)
 
 
 *******
