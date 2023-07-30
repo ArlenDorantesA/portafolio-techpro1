@@ -32,7 +32,8 @@ Además se incluyen *Google Fonts*.
 
 ### Demo
 
-<img src="imagenes/foto-paginaweb" alt="pagina web">
+<img src="imagenes/foto-paginaweb.png" alt="pagina web">
+
 Puedes entrar al demo en este vìnculo: https://mellifluous-madeleine-175509.netlify.app/
 
 Puedes basarte en este proyecto para crear nuevas cosas e ir mejorando tu propia página web! 🖥️💡🤍
